@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Ways to make a million dollars!
+All big things start small!
 Use the left arrow to go back!
